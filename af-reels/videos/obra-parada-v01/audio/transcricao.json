@@ -1,0 +1,334 @@
+[
+  {
+    "start": 0,
+    "end": 2.02,
+    "text": " Sua obra parou. Por onde começar?",
+    "words": [
+      {
+        "start": 0,
+        "end": 0.3,
+        "word": " Sua"
+      },
+      {
+        "start": 0.3,
+        "end": 0.52,
+        "word": " obra"
+      },
+      {
+        "start": 0.52,
+        "end": 0.94,
+        "word": " parou."
+      },
+      {
+        "start": 1.26,
+        "end": 1.4,
+        "word": " Por"
+      },
+      {
+        "start": 1.4,
+        "end": 1.6,
+        "word": " onde"
+      },
+      {
+        "start": 1.6,
+        "end": 2.02,
+        "word": " começar?"
+      }
+    ]
+  },
+  {
+    "start": 2.58,
+    "end": 6.6,
+    "text": " Primeiro, é preciso entender o que já foi feito e o que ainda falta.",
+    "words": [
+      {
+        "start": 2.58,
+        "end": 3.16,
+        "word": " Primeiro,"
+      },
+      {
+        "start": 3.42,
+        "end": 3.52,
+        "word": " é"
+      },
+      {
+        "start": 3.52,
+        "end": 3.82,
+        "word": " preciso"
+      },
+      {
+        "start": 3.82,
+        "end": 4.26,
+        "word": " entender"
+      },
+      {
+        "start": 4.26,
+        "end": 4.5,
+        "word": " o"
+      },
+      {
+        "start": 4.5,
+        "end": 4.6,
+        "word": " que"
+      },
+      {
+        "start": 4.6,
+        "end": 4.8,
+        "word": " já"
+      },
+      {
+        "start": 4.8,
+        "end": 4.92,
+        "word": " foi"
+      },
+      {
+        "start": 4.92,
+        "end": 5.3,
+        "word": " feito"
+      },
+      {
+        "start": 5.3,
+        "end": 5.62,
+        "word": " e"
+      },
+      {
+        "start": 5.62,
+        "end": 5.72,
+        "word": " o"
+      },
+      {
+        "start": 5.72,
+        "end": 5.9,
+        "word": " que"
+      },
+      {
+        "start": 5.9,
+        "end": 6.12,
+        "word": " ainda"
+      },
+      {
+        "start": 6.12,
+        "end": 6.6,
+        "word": " falta."
+      }
+    ]
+  },
+  {
+    "start": 7.08,
+    "end": 11.48,
+    "text": " A AF confere a obra em campo, compara os serviços com o projeto",
+    "words": [
+      {
+        "start": 7.08,
+        "end": 7.22,
+        "word": " A"
+      },
+      {
+        "start": 7.22,
+        "end": 7.64,
+        "word": " AF"
+      },
+      {
+        "start": 7.64,
+        "end": 8.18,
+        "word": " confere"
+      },
+      {
+        "start": 8.18,
+        "end": 8.32,
+        "word": " a"
+      },
+      {
+        "start": 8.32,
+        "end": 8.58,
+        "word": " obra"
+      },
+      {
+        "start": 8.58,
+        "end": 8.78,
+        "word": " em"
+      },
+      {
+        "start": 8.78,
+        "end": 9.22,
+        "word": " campo,"
+      },
+      {
+        "start": 9.62,
+        "end": 10.02,
+        "word": " compara"
+      },
+      {
+        "start": 10.02,
+        "end": 10.14,
+        "word": " os"
+      },
+      {
+        "start": 10.14,
+        "end": 10.66,
+        "word": " serviços"
+      },
+      {
+        "start": 10.66,
+        "end": 10.94,
+        "word": " com"
+      },
+      {
+        "start": 10.94,
+        "end": 11.04,
+        "word": " o"
+      },
+      {
+        "start": 11.04,
+        "end": 11.48,
+        "word": " projeto"
+      }
+    ]
+  },
+  {
+    "start": 11.48,
+    "end": 14.82,
+    "text": " e organiza o orçamento das etapas restantes.",
+    "words": [
+      {
+        "start": 11.48,
+        "end": 12.08,
+        "word": " e"
+      },
+      {
+        "start": 12.08,
+        "end": 12.84,
+        "word": " organiza"
+      },
+      {
+        "start": 12.84,
+        "end": 12.96,
+        "word": " o"
+      },
+      {
+        "start": 12.96,
+        "end": 13.46,
+        "word": " orçamento"
+      },
+      {
+        "start": 13.46,
+        "end": 13.76,
+        "word": " das"
+      },
+      {
+        "start": 13.76,
+        "end": 14.26,
+        "word": " etapas"
+      },
+      {
+        "start": 14.26,
+        "end": 14.82,
+        "word": " restantes."
+      }
+    ]
+  },
+  {
+    "start": 15.2,
+    "end": 19.88,
+    "text": " Assim, você tem informação técnica para avaliar os próximos passos.",
+    "words": [
+      {
+        "start": 15.2,
+        "end": 15.58,
+        "word": " Assim,"
+      },
+      {
+        "start": 16.02,
+        "end": 16.24,
+        "word": " você"
+      },
+      {
+        "start": 16.24,
+        "end": 16.52,
+        "word": " tem"
+      },
+      {
+        "start": 16.52,
+        "end": 16.98,
+        "word": " informação"
+      },
+      {
+        "start": 16.98,
+        "end": 17.64,
+        "word": " técnica"
+      },
+      {
+        "start": 17.64,
+        "end": 17.98,
+        "word": " para"
+      },
+      {
+        "start": 17.98,
+        "end": 18.56,
+        "word": " avaliar"
+      },
+      {
+        "start": 18.56,
+        "end": 18.7,
+        "word": " os"
+      },
+      {
+        "start": 18.7,
+        "end": 19.24,
+        "word": " próximos"
+      },
+      {
+        "start": 19.24,
+        "end": 19.88,
+        "word": " passos."
+      }
+    ]
+  },
+  {
+    "start": 20.16,
+    "end": 22.7,
+    "text": " Converse com a AF sobre a sua obra.",
+    "words": [
+      {
+        "start": 20.16,
+        "end": 20.58,
+        "word": " Converse"
+      },
+      {
+        "start": 20.58,
+        "end": 20.88,
+        "word": " com"
+      },
+      {
+        "start": 20.88,
+        "end": 21.06,
+        "word": " a"
+      },
+      {
+        "start": 21.06,
+        "end": 21.52,
+        "word": " AF"
+      },
+      {
+        "start": 21.52,
+        "end": 21.86,
+        "word": " sobre"
+      },
+      {
+        "start": 21.86,
+        "end": 21.98,
+        "word": " a"
+      },
+      {
+        "start": 21.98,
+        "end": 22.28,
+        "word": " sua"
+      },
+      {
+        "start": 22.28,
+        "end": 22.7,
+        "word": " obra."
+      }
+    ]
+  }
+]

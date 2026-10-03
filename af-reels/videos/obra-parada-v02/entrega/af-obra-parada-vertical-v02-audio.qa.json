@@ -1,0 +1,109 @@
+{
+  "arquivo": "af-obra-parada-vertical-v02-audio.mp4",
+  "sha256": "a69cac74b9a7a5b12a6114a8cd0d9804b529d0ce6c3fc47b1b205eafb603de3c",
+  "medido_em": "2026-10-03T14:52:56",
+  "estado": "aprovado",
+  "checagens": [
+    {
+      "checagem": "resolução",
+      "esperado": "1080x1920",
+      "medido": "1080x1920",
+      "ok": true
+    },
+    {
+      "checagem": "codec de vídeo",
+      "esperado": "h264",
+      "medido": "h264",
+      "ok": true
+    },
+    {
+      "checagem": "pixel format",
+      "esperado": "yuv420p",
+      "medido": "yuv420p",
+      "ok": true
+    },
+    {
+      "checagem": "fps",
+      "esperado": "23.976 a 60",
+      "medido": 24.0,
+      "ok": true
+    },
+    {
+      "checagem": "duração (s)",
+      "esperado": "30.0 ± 0.062",
+      "medido": 30.0,
+      "ok": true
+    },
+    {
+      "checagem": "codec de áudio",
+      "esperado": "aac",
+      "medido": "aac",
+      "ok": true
+    },
+    {
+      "checagem": "taxa de amostragem",
+      "esperado": "44100 ou 48000",
+      "medido": 48000,
+      "ok": true
+    },
+    {
+      "checagem": "canais",
+      "esperado": "1 ou 2",
+      "medido": 2,
+      "ok": true
+    },
+    {
+      "checagem": "loudness integrado (LUFS)",
+      "esperado": "-16.0 a -14.0",
+      "medido": -14.5,
+      "ok": true
+    },
+    {
+      "checagem": "true peak (dBTP)",
+      "esperado": "<= -1.5",
+      "medido": -1.9,
+      "ok": true
+    },
+    {
+      "checagem": "decodificação completa",
+      "esperado": "sem erros",
+      "medido": "sem erros",
+      "ok": true
+    },
+    {
+      "checagem": "folha de quadros gerada",
+      "esperado": "af-obra-parada-vertical-v02-audio.quadros.jpg",
+      "medido": "ok",
+      "ok": true
+    }
+  ],
+  "audio": {
+    "lufs_integrado": -14.5,
+    "true_peak_dbtp": -1.9,
+    "lra_lu": 2.9
+  },
+  "folha_de_quadros": "af-obra-parada-vertical-v02-audio.quadros.jpg",
+  "quadros_em_s": [
+    0.05,
+    4.29,
+    8.57,
+    12.86,
+    17.14,
+    21.43,
+    25.71,
+    29.95
+  ],
+  "nao_verificado_por_este_script": [
+    "pronúncia, sotaque e naturalidade da voz (exige escuta humana)",
+    "conteúdo visual: deformações, texto ilegível, rosto, coerência entre cenas (olhar a folha de quadros)",
+    "movimento entre os quadros amostrados e transições",
+    "veracidade das afirmações do roteiro (conferir af-reels/marca/fatos.md)"
+  ],
+  "aprovacao": {
+    "por": "Thiagaoai",
+    "em": "2026-10-03T15:02:38",
+    "ouviu": true,
+    "viu": true,
+    "nota": "Usuário assistiu no QuickTime e disse 'gostei'; pediu manter a mesma voz (Bernard) e trilhas mais dramáticas nos próximos."
+  }
+}

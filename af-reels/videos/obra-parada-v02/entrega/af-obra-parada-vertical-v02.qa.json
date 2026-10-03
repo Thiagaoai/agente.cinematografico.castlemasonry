@@ -1,0 +1,105 @@
+{
+  "arquivo": "af-obra-parada-vertical-v02.mp4",
+  "sha256": "40de300d623a433a5509879d078181e4481ce580440eaf6aa014c6eb74a34891",
+  "medido_em": "2026-10-03T14:52:33",
+  "estado": "reprovado-tecnico",
+  "checagens": [
+    {
+      "checagem": "resolução",
+      "esperado": "1080x1920",
+      "medido": "1080x1920",
+      "ok": true
+    },
+    {
+      "checagem": "codec de vídeo",
+      "esperado": "h264",
+      "medido": "h264",
+      "ok": true
+    },
+    {
+      "checagem": "pixel format",
+      "esperado": "yuv420p",
+      "medido": "yuv420p",
+      "ok": true
+    },
+    {
+      "checagem": "fps",
+      "esperado": "23.976 a 60",
+      "medido": 24.0,
+      "ok": true
+    },
+    {
+      "checagem": "duração (s)",
+      "esperado": "30.0 ± 0.062",
+      "medido": 30.0,
+      "ok": true
+    },
+    {
+      "checagem": "codec de áudio",
+      "esperado": "aac",
+      "medido": "aac",
+      "ok": true
+    },
+    {
+      "checagem": "taxa de amostragem",
+      "esperado": "44100 ou 48000",
+      "medido": 48000,
+      "ok": true
+    },
+    {
+      "checagem": "canais",
+      "esperado": "1 ou 2",
+      "medido": 2,
+      "ok": true
+    },
+    {
+      "checagem": "loudness integrado (LUFS)",
+      "esperado": "-16.0 a -14.0",
+      "medido": -14.6,
+      "ok": true
+    },
+    {
+      "checagem": "true peak (dBTP)",
+      "esperado": "<= -1.5",
+      "medido": -0.6,
+      "ok": false
+    },
+    {
+      "checagem": "decodificação completa",
+      "esperado": "sem erros",
+      "medido": "sem erros",
+      "ok": true
+    },
+    {
+      "checagem": "folha de quadros gerada",
+      "esperado": "af-obra-parada-vertical-v02.quadros.jpg",
+      "medido": "ok",
+      "ok": true
+    }
+  ],
+  "audio": {
+    "lufs_integrado": -14.6,
+    "true_peak_dbtp": -0.6,
+    "lra_lu": 3.1
+  },
+  "folha_de_quadros": "af-obra-parada-vertical-v02.quadros.jpg",
+  "quadros_em_s": [
+    0.05,
+    4.29,
+    8.57,
+    12.86,
+    17.14,
+    21.43,
+    25.71,
+    29.95
+  ],
+  "nao_verificado_por_este_script": [
+    "pronúncia, sotaque e naturalidade da voz (exige escuta humana)",
+    "conteúdo visual: deformações, texto ilegível, rosto, coerência entre cenas (olhar a folha de quadros)",
+    "movimento entre os quadros amostrados e transições",
+    "veracidade das afirmações do roteiro (conferir af-reels/marca/fatos.md)"
+  ],
+  "motivos_reprovacao": [
+    "true peak (dBTP)"
+  ]
+}

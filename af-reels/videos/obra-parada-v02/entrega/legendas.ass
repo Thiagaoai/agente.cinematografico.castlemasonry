@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Archivo,52,&H00FFFFFF,&H00FFFFFF,&H001A1224,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,115,155,445,1
+Style: Notice,Archivo,25,&H00FFFFFF,&H00FFFFFF,&H001A1224,&H80000000,0,0,0,0,100,100,0,0,1,2,0,1,90,120,325,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.35,0:00:01.63,Default,,0,0,0,,Sua obra parou.
+Dialogue: 0,0:00:02.15,0:00:03.81,Default,,0,0,0,,E você não sabe como
+Dialogue: 0,0:00:03.81,0:00:04.49,Default,,0,0,0,,retomar?
+Dialogue: 0,0:00:05.21,0:00:07.35,Default,,0,0,0,,A A.F ajuda você a
+Dialogue: 0,0:00:07.35,0:00:09.39,Default,,0,0,0,,entender o que falta, conferir
+Dialogue: 0,0:00:09.39,0:00:11.35,Default,,0,0,0,,o projeto e planejar as
+Dialogue: 0,0:00:11.35,0:00:12.57,Default,,0,0,0,,próximas etapas.
+Dialogue: 0,0:00:13.15,0:00:14.77,Default,,0,0,0,,Antes de investir de novo,
+Dialogue: 0,0:00:15.09,0:00:16.05,Default,,0,0,0,,tenha clareza.
+Dialogue: 0,0:00:16.61,0:00:19.07,Default,,0,0,0,,Mande retomar no WhatsApp.
+Dialogue: 0,0:00:19.99,0:00:21.31,Default,,0,0,0,,Conte onde fica a obra
+Dialogue: 0,0:00:21.31,0:00:22.61,Default,,0,0,0,,e em que etapa ela
+Dialogue: 0,0:00:22.61,0:00:23.05,Default,,0,0,0,,parou.
+Dialogue: 0,0:00:23.61,0:00:25.55,Default,,0,0,0,,Vamos conversar sobre o próximo
+Dialogue: 0,0:00:25.55,0:00:25.89,Default,,0,0,0,,passo.
+Dialogue: 0,0:00:00.00,0:00:23.00,Notice,,0,0,0,,Cenas ilustrativas

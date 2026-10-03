@@ -1,0 +1,200 @@
+- link "Pular para o conteúdo":
+  - /url: "#conteudo"
+- navigation "Principal":
+  - link "A.F Consultoria e Assessoria em Engenharia — início":
+    - /url: /
+  - list:
+    - link "Serviços":
+      - /url: /servicos/
+    - link "Método":
+      - /url: /metodo/
+    - link "Obra parada":
+      - /url: /obra-parada/
+    - link "Sobre":
+      - /url: /sobre/
+    - link "Contato":
+      - /url: /contato/
+  - link "WhatsApp":
+    - /url: https://wa.me/5562993380808?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20A.F%20Consultoria.
+- main:
+  - paragraph:
+    - link "Serviços":
+      - /url: /servicos/
+    - text: · frente
+  - heading "Projeto" [level=1]
+  - paragraph: Do levantamento ao executivo, nas disciplinas que a obra exige.
+  - paragraph: 62 especialidades em 5 grupos
+  - heading "Infraestrutura urbana" [level=2]
+  - list:
+    - listitem: Pavimentação asfáltica
+    - listitem: Recapeamento
+    - listitem: Drenagem pluvial
+    - listitem: Galerias de águas pluviais
+    - listitem: Bueiros celulares
+    - listitem: Sarjetas
+    - listitem: Meio-fio
+    - listitem: Calçadas acessíveis
+    - listitem: Rotatórias
+    - listitem: Sinalização viária
+    - listitem: Urbanização de avenidas
+    - listitem: Revitalização de praças
+    - listitem: Paisagismo urbano
+    - listitem: Limpeza urbana
+  - heading "Saneamento" [level=2]
+  - list:
+    - listitem: Rede de abastecimento de água
+    - listitem: Adutoras
+    - listitem: Elevatórias de água
+    - listitem: Reservatórios elevados
+    - text: Reservatórios apoiados
+    - generic: coordenação
+    - text: ETA — Estação de Tratamento de Água
+    - generic: coordenação
+    - listitem: Rede coletora de esgoto
+    - text: Emissários
+    - generic: coordenação
+    - listitem: Interceptores
+    - listitem: EEE — Estação Elevatória de Esgoto
+    - listitem: ETE — Estação de Tratamento de Esgoto
+    - listitem: Drenagem sanitária
+  - heading "Edificações públicas" [level=2]
+  - list:
+    - listitem: Escolas em padrão FNDE e estadual
+    - listitem: CMEI
+    - listitem: Creches
+    - listitem: UBS
+    - listitem: Hospital
+    - text: CAPS
+    - generic: coordenação
+    - listitem: CRAS
+    - listitem: CREAS
+    - listitem: Ginásios
+    - listitem: Quadras
+    - text: Centros comunitários
+    - generic: coordenação
+    - listitem: Cemitérios
+    - listitem: Rodoviárias
+    - text: Mercados municipais
+    - generic: coordenação
+    - listitem: Prefeitura
+    - listitem: Câmara Municipal
+  - heading "Obras especiais" [level=2]
+  - list:
+    - listitem: Pontes
+    - listitem: Passarelas
+    - text: Viadutos
+    - generic: coordenação
+    - listitem: Muros de contenção
+    - listitem: Arrimos
+    - listitem: Taludes
+    - listitem: Barragens
+    - listitem: Lagos artificiais
+    - listitem: Canalização de córregos
+  - heading "Projetos complementares" [level=2]
+  - list:
+    - listitem: Arquitetônico
+    - listitem: Estrutural
+    - listitem: Fundação
+    - listitem: Elétrico
+    - listitem: Hidrossanitário
+    - listitem: SPDA
+    - listitem: Combate a incêndio
+    - listitem: Climatização
+    - listitem: Acessibilidade
+    - text: Gases medicinais
+    - generic: conferência · eng. mecânico
+    - text: Cabeamento estruturado
+    - generic: conferência · TI
+  - paragraph: "Coordenação: especialidades marcadas assim são coordenadas por nós e executadas por profissional habilitado. Conferência: disciplinas cuja atribuição é de outra profissão — a assinatura é do profissional da área, e nós conferimos a peça contra a norma e contra o orçamento."
+  - region "Perguntas sobre projeto":
+    - heading "Perguntas sobre projeto" [level=2]
+    - heading "Quais disciplinas entram num projeto executivo?" [level=3]
+    - paragraph: Varia com o tipo de obra. Prédio público normalmente reúne arquitetura, estrutura, instalações elétricas e hidrossanitárias, combate a incêndio e acessibilidade; via urbana reúne terraplenagem, drenagem, pavimento e sinalização. A compatibilização entre elas entra junto, para o executivo chegar à obra sem conflito entre pranchas.
+    - heading "Vocês projetam em BIM?" [level=3]
+    - paragraph: "Projetamos, onde o modelo se justifica: Revit em edificação, Civil 3D e Infraworks em obra linear, Navisworks para achar choque entre disciplinas. Nem toda obra pede isso, porém. Quando o modelo custaria mais do que devolve, a entrega sai em CAD, com o motivo dito na proposta."
+    - paragraph:
+      - link "Ver as 26 perguntas frequentes →":
+        - /url: /faq/
+  - paragraph: Outras frentes
+  - list:
+    - link "Orçamento Planilha que fecha com a base oficial que o órgão vai conferir.":
+      - /url: /servicos/orcamento/
+      - generic: Orçamento
+      - emphasis: Planilha que fecha com a base oficial que o órgão vai conferir.
+    - link "Licitação e contrato A documentação que sustenta a contratação e sobrevive à análise.":
+      - /url: /servicos/licitacao/
+      - generic: Licitação e contrato
+      - emphasis: A documentação que sustenta a contratação e sobrevive à análise.
+    - link "Obra Medir em campo o que foi efetivamente executado.":
+      - /url: /servicos/obra/
+      - generic: Obra
+      - emphasis: Medir em campo o que foi efetivamente executado.
+    - link "Convênio e recurso Do cadastro da proposta à prestação de contas.":
+      - /url: /servicos/convenio/
+      - generic: Convênio e recurso
+      - emphasis: Do cadastro da proposta à prestação de contas.
+    - link "Regularização e planos O que o município precisa ter por lei, e o que o terreno precisa para existir.":
+      - /url: /servicos/regularizacao/
+      - generic: Regularização e planos
+      - emphasis: O que o município precisa ter por lei, e o que o terreno precisa para existir.
+- contentinfo:
+  - paragraph: Contato
+  - heading "Traga a demanda, a gente dimensiona" [level=2]
+  - paragraph: Mande o que você tem — edital, projeto antigo, foto da obra, ou só a descrição do problema. Respondemos com escopo e prazo.
+  - paragraph:
+    - link "Falar no WhatsApp +55 62 99338-0808":
+      - /url: https://wa.me/5562993380808?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20falar%20sobre%20um%20projeto.
+      - text: Falar no WhatsApp
+      - generic: +55 62 99338-0808
+  - heading "E-mail" [level=3]
+  - list:
+    - link "consultoria@araujoferrazconsultoria.com.br":
+      - /url: mailto:consultoria@araujoferrazconsultoria.com.br
+    - link "engenharia@araujoferrazconsultoria.com.br":
+      - /url: mailto:engenharia@araujoferrazconsultoria.com.br
+    - link "arquitetura@araujoferrazconsultoria.com.br":
+      - /url: mailto:arquitetura@araujoferrazconsultoria.com.br
+  - heading "Onde estamos" [level=3]
+  - paragraph:
+    - text: Rua 60, nº 145 — Casa 1
+    - text: Quadra 108, Lote 15
+    - text: Setor Central · Goiânia — GO
+    - text: CEP 74.055-120
+  - heading "Atuação" [level=3]
+  - paragraph: Brasil
+  - heading "Serviços" [level=3]
+  - list:
+    - link "Projeto":
+      - /url: /servicos/projeto/
+    - link "Orçamento":
+      - /url: /servicos/orcamento/
+    - link "Licitação e contrato":
+      - /url: /servicos/licitacao/
+    - link "Obra":
+      - /url: /servicos/obra/
+    - link "Convênio e recurso":
+      - /url: /servicos/convenio/
+    - link "Regularização e planos":
+      - /url: /servicos/regularizacao/
+  - heading "Acompanhe" [level=3]
+  - paragraph:
+    - link "Instagram":
+      - /url: https://www.instagram.com/a.fconsultoriaeengenharia
+    - text: "@a.fconsultoriaeengenharia"
+  - navigation "Rodapé":
+    - link "Início":
+      - /url: /
+    - link "Serviços":
+      - /url: /servicos/
+    - link "Método":
+      - /url: /metodo/
+    - link "Obra parada":
+      - /url: /obra-parada/
+    - link "Sobre":
+      - /url: /sobre/
+    - link "Perguntas frequentes":
+      - /url: /faq/
+    - link "Contato":
+      - /url: /contato/
+  - img "A.F Consultoria e Assessoria em Engenharia"
+  - paragraph: © 2026 · Consultoria · Assessoria · Soluções · Resultados

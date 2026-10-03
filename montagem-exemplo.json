@@ -1,0 +1,30 @@
+{
+  "saida": "teste-skill-trailer.mp4",
+  "formato": "16:9",
+  "fade": 0.5,
+  "segura_fim": 4.9,
+  "cenas": [
+    {"arquivo": "saida/cena1.mp4", "corte": 5.0, "velocidade": 0.84},
+    {"arquivo": "saida/cena2.mp4", "corte": 5.0},
+    {"arquivo": "saida/cena3_v2.mp4", "corte": 5.0},
+    {"arquivo": "saida/cena4.mp4", "corte": 5.0},
+    {"arquivo": "saida/cena5.mp4", "corte": 3.6},
+    {"arquivo": "saida/cena6_v2.mp4", "corte": 5.0},
+    {"arquivo": "saida/cena7.mp4", "corte": 5.0, "velocidade": 0.6}
+  ],
+  "encerramento": "saida/encerramento_skill.png",
+  "marca_antes_do_fim": 5.5,
+  "voz": [
+    {"arquivo": "saida/voz/f01.wav", "cena": 0, "atraso": 0.8},
+    {"arquivo": "saida/voz/f02.wav", "cena": 1, "atraso": 0.4},
+    {"arquivo": "saida/voz/f03.wav", "cena": 1, "atraso": 3.7},
+    {"arquivo": "saida/voz/f04.wav", "cena": 2, "atraso": 0.5},
+    {"arquivo": "saida/voz/f05.wav", "cena": 3, "atraso": 0.7},
+    {"arquivo": "saida/voz/f06.wav", "cena": 4, "atraso": 0.4},
+    {"arquivo": "saida/voz/f07.wav", "cena": 5, "atraso": 0.3}
+  ],
+  "voz_final": {"arquivo": "saida/voz/f08.wav", "atraso": 0.4},
+  "trilha": "saida/trilha_trailer.mp3",
+  "volume_trilha": 0.75,
+  "lufs": -14
+}

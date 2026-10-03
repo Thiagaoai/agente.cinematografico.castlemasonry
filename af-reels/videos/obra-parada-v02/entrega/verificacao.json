@@ -1,0 +1,17 @@
+{
+  "duration": 30.0,
+  "voice_duration": 25.84,
+  "voice_offset": 0.35,
+  "fps": "24",
+  "source_frame_rates": [
+    "24/1",
+    "24/1",
+    "24/1"
+  ],
+  "width": 1080,
+  "height": 1920,
+  "transcript_matches": true,
+  "full_decode": true,
+  "caption_count": 15,
+  "human_listening": "pending: audio input unavailable to this agent"
+}

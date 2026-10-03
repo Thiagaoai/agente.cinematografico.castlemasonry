@@ -1,0 +1,48 @@
+{
+  "biblia": "A.F Consultoria e Assessoria em Engenharia: high-end Brazilian civil engineering and infrastructure consulting firm, warm terracotta, sand and copper tones, clean concrete, modern survey instruments, white hardhats, precise architectural blueprints and technical drawings, golden hour daylight, crisp construction site with zero clutter, authentic modern infrastructure.",
+  "estilo": "35mm documentary and architectural cinema photography, Leica optics, natural organic color science, warm sun flare, Kodak Vision3 5219 texture, ultra sharp focus on textures, photorealistic civil engineering, zero CGI render, no text, no watermark",
+  "negative_video": "text, watermark, logo, deformed faces, extra fingers, cartoon, 3D render, distorted machinery, melting concrete, warping buildings, chaotic camera movement, glitch, flickering, blurry",
+  "cenas": [
+    {
+      "id": 1,
+      "nome": "01-topografia-terreno",
+      "imagem": "A high-precision total station theodolite on an orange surveying tripod standing on red-earth Brazilian terrain at dawn, soft golden sun rising on the horizon, laser measurement prism in the distance, gentle dust particles in morning light. 35mm lens, shallow depth of field, warm sunrise, professional surveying in Goias Brazil.",
+      "movimento": "Slow steady forward tracking shot gliding low past the tripod towards the vast surveyed land, soft morning sunlight casting long shadows. Tripod and horizon remain rigid and stable."
+    },
+    {
+      "id": 2,
+      "nome": "02-projeto-executivo",
+      "imagem": "Close-up macro shot on a wooden drafting table bathed in natural window light, an architect and civil engineer's hands reviewing a crisp detailed architectural blueprint next to a precision scale ruler, compass, and modern aluminum digital tablet with BIM model. 50mm lens, natural daylight, warm sand tones.",
+      "movimento": "Slow subtle dolly shot gliding over the technical blueprint, natural dust in the sunbeam, hands and drawing stay crisp and perfectly solid."
+    },
+    {
+      "id": 3,
+      "nome": "03-orcamento-planejamento",
+      "imagem": "Cinematic medium close-up of a modern clean engineer workspace: digital screen displaying organized official budget spreadsheets and schedules, surrounded by neat concrete sample cylinders, copper details, warm ambient lighting. 50mm lens, shallow depth of field, sharp textures.",
+      "movimento": "Gentle slow rack focus from the concrete test cylinder in the foreground to the illuminated engineering schedule in the background, camera locked off on a sturdy tripod."
+    },
+    {
+      "id": 4,
+      "nome": "04-obra-acompanhamento",
+      "imagem": "A professional Brazilian civil engineer wearing a clean white hardhat, safety glasses, and high-visibility vest, seen from behind looking out over an active organized urban infrastructure and paving project at golden hour, holding a digital inspection tablet. 35mm lens, heroic natural posture, golden backlight.",
+      "movimento": "Slow cinematic pedestal crane shot rising smoothly behind the engineer, revealing the wide paved avenue and modern construction equipment. Engineer and ground remain solid and stable."
+    },
+    {
+      "id": 5,
+      "nome": "05-obra-pronta-pavimentacao",
+      "imagem": "Ground-level view along a freshly paved urban avenue with crisp curb stones, accessible concrete sidewalks, green grass verges, and modern streetlights receding into the distance under a warm late afternoon sky. 24mm wide angle, deep focus, sharp asphalt and concrete texture.",
+      "movimento": "Smooth low-angle tracking shot gliding forward along the clean curb line and new asphalt road into the sunset. Pavement, sidewalks and curbs stay completely rigid and sharp."
+    },
+    {
+      "id": 6,
+      "nome": "06-final-aereo-institucional",
+      "imagem": "Wide cinematic aerial drone shot at golden hour dusk over a completed modern infrastructure and urban development project, beautiful clean avenues, organized landscape, warm glowing street lights starting to turn on, vast open sky in the upper third for logo and branding. 24mm lens, warm terracotta and blue hour horizon.",
+      "movimento": "Slow smooth aerial pull-back and subtle rise, revealing the entire completed engineering infrastructure, street lights twinkling, perfectly stabilized horizon."
+    }
+  ],
+  "referencias_fixas": [
+    "saida/cena6.png"
+  ],
+  "luz": "golden hour to dusk, warm sunlight, clean skies, long shadows, warm copper and sand ambient tones",
+  "conceito": "Antes de construir, enxergue o que vem pela frente. Do levantamento à medição final."
+}

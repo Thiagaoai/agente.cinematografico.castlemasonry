@@ -1,0 +1,145 @@
+- link "Pular para o conteúdo":
+  - /url: "#conteudo"
+- navigation "Principal":
+  - link "A.F Consultoria e Assessoria em Engenharia — início":
+    - /url: /
+  - list:
+    - link "Serviços":
+      - /url: /servicos/
+    - link "Método":
+      - /url: /metodo/
+    - link "Obra parada":
+      - /url: /obra-parada/
+    - link "Sobre":
+      - /url: /sobre/
+    - link "Contato":
+      - /url: /contato/
+  - link "WhatsApp":
+    - /url: https://wa.me/5562993380808?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20A.F%20Consultoria.
+- main:
+  - paragraph:
+    - link "Serviços":
+      - /url: /servicos/
+    - text: · frente
+  - heading "Licitação e contrato" [level=1]
+  - paragraph: A documentação que sustenta a contratação e sobrevive à análise.
+  - paragraph: 21 especialidades em 3 grupos
+  - heading "Peças de licitação" [level=2]
+  - list:
+    - listitem: Termo de Referência
+    - listitem: Projeto Básico
+    - listitem: Projeto Executivo
+    - listitem: ETP — Estudo Técnico Preliminar
+    - listitem: Mapa de riscos
+    - listitem: Planilha estimativa
+    - listitem: Pesquisa mercadológica
+    - listitem: Justificativa técnica
+    - listitem: Apoio ao setor de compras
+  - heading "Lei nº 14.133/2021" [level=2]
+  - list:
+    - listitem: Adequação de documentos
+    - listitem: Capacitação técnica
+    - listitem: Apoio nas contratações
+    - listitem: Fiscalização contratual
+    - listitem: Planejamento anual de compras
+    - listitem: Plano de Contratações Anual (PCA)
+    - listitem: Gestão de contratos
+  - heading "Assessoria" [level=2]
+  - list:
+    - listitem: Assessoria técnica à secretaria de Obras
+    - listitem: Elaboração de pareceres técnicos
+    - listitem: Revisão e compatibilização de projetos
+    - listitem: Atendimento às diligências do Tribunal de Contas
+    - listitem: Atendimento a órgãos concedentes
+  - region "Perguntas sobre licitação e contrato":
+    - heading "Perguntas sobre licitação e contrato" [level=2]
+    - heading "Vocês elaboram Termo de Referência e ETP pela Lei nº 14.133?" [level=3]
+    - paragraph: "Elaboramos, e o conjunto todo: ETP, TR, projeto básico, matriz de riscos, orçamento estimativo e pesquisa de mercado. A lei exige planejamento registrado em documento, e é essa fase que entregamos pronta — cada peça encadeada com a anterior, para a instrução chegar completa ao setor de compras."
+    - heading "E se o órgão glosar um item do orçamento?" [level=3]
+    - paragraph: A diligência é respondida por nós, inclusive quando a peça questionada veio de outro autor. Com composição aberta e memória de cálculo anexa, mostra-se a origem de cada quantidade levantada. Ninguém pode garantir que nada será contestado; o que garantimos é que todo item tem como ser defendido.
+    - paragraph:
+      - link "Ver as 26 perguntas frequentes →":
+        - /url: /faq/
+  - paragraph: Outras frentes
+  - list:
+    - link "Projeto Do levantamento ao executivo, nas disciplinas que a obra exige.":
+      - /url: /servicos/projeto/
+      - generic: Projeto
+      - emphasis: Do levantamento ao executivo, nas disciplinas que a obra exige.
+    - link "Orçamento Planilha que fecha com a base oficial que o órgão vai conferir.":
+      - /url: /servicos/orcamento/
+      - generic: Orçamento
+      - emphasis: Planilha que fecha com a base oficial que o órgão vai conferir.
+    - link "Obra Medir em campo o que foi efetivamente executado.":
+      - /url: /servicos/obra/
+      - generic: Obra
+      - emphasis: Medir em campo o que foi efetivamente executado.
+    - link "Convênio e recurso Do cadastro da proposta à prestação de contas.":
+      - /url: /servicos/convenio/
+      - generic: Convênio e recurso
+      - emphasis: Do cadastro da proposta à prestação de contas.
+    - link "Regularização e planos O que o município precisa ter por lei, e o que o terreno precisa para existir.":
+      - /url: /servicos/regularizacao/
+      - generic: Regularização e planos
+      - emphasis: O que o município precisa ter por lei, e o que o terreno precisa para existir.
+- contentinfo:
+  - paragraph: Contato
+  - heading "Traga a demanda, a gente dimensiona" [level=2]
+  - paragraph: Mande o que você tem — edital, projeto antigo, foto da obra, ou só a descrição do problema. Respondemos com escopo e prazo.
+  - paragraph:
+    - link "Falar no WhatsApp +55 62 99338-0808":
+      - /url: https://wa.me/5562993380808?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20falar%20sobre%20um%20projeto.
+      - text: Falar no WhatsApp
+      - generic: +55 62 99338-0808
+  - heading "E-mail" [level=3]
+  - list:
+    - link "consultoria@araujoferrazconsultoria.com.br":
+      - /url: mailto:consultoria@araujoferrazconsultoria.com.br
+    - link "engenharia@araujoferrazconsultoria.com.br":
+      - /url: mailto:engenharia@araujoferrazconsultoria.com.br
+    - link "arquitetura@araujoferrazconsultoria.com.br":
+      - /url: mailto:arquitetura@araujoferrazconsultoria.com.br
+  - heading "Onde estamos" [level=3]
+  - paragraph:
+    - text: Rua 60, nº 145 — Casa 1
+    - text: Quadra 108, Lote 15
+    - text: Setor Central · Goiânia — GO
+    - text: CEP 74.055-120
+  - heading "Atuação" [level=3]
+  - paragraph: Brasil
+  - heading "Serviços" [level=3]
+  - list:
+    - link "Projeto":
+      - /url: /servicos/projeto/
+    - link "Orçamento":
+      - /url: /servicos/orcamento/
+    - link "Licitação e contrato":
+      - /url: /servicos/licitacao/
+    - link "Obra":
+      - /url: /servicos/obra/
+    - link "Convênio e recurso":
+      - /url: /servicos/convenio/
+    - link "Regularização e planos":
+      - /url: /servicos/regularizacao/
+  - heading "Acompanhe" [level=3]
+  - paragraph:
+    - link "Instagram":
+      - /url: https://www.instagram.com/a.fconsultoriaeengenharia
+    - text: "@a.fconsultoriaeengenharia"
+  - navigation "Rodapé":
+    - link "Início":
+      - /url: /
+    - link "Serviços":
+      - /url: /servicos/
+    - link "Método":
+      - /url: /metodo/
+    - link "Obra parada":
+      - /url: /obra-parada/
+    - link "Sobre":
+      - /url: /sobre/
+    - link "Perguntas frequentes":
+      - /url: /faq/
+    - link "Contato":
+      - /url: /contato/
+  - img "A.F Consultoria e Assessoria em Engenharia"
+  - paragraph: © 2026 · Consultoria · Assessoria · Soluções · Resultados

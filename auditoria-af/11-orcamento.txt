@@ -1,0 +1,159 @@
+- link "Pular para o conteúdo":
+  - /url: "#conteudo"
+- navigation "Principal":
+  - link "A.F Consultoria e Assessoria em Engenharia — início":
+    - /url: /
+  - list:
+    - link "Serviços":
+      - /url: /servicos/
+    - link "Método":
+      - /url: /metodo/
+    - link "Obra parada":
+      - /url: /obra-parada/
+    - link "Sobre":
+      - /url: /sobre/
+    - link "Contato":
+      - /url: /contato/
+  - link "WhatsApp":
+    - /url: https://wa.me/5562993380808?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20A.F%20Consultoria.
+- main:
+  - paragraph:
+    - link "Serviços":
+      - /url: /servicos/
+    - text: · frente
+  - heading "Orçamento" [level=1]
+  - paragraph: Planilha que fecha com a base oficial que o órgão vai conferir.
+  - paragraph: 31 especialidades em 3 grupos
+  - figure:
+    - img "Engenheira da A.F trabalhando na planilha orçamentária sobre a prancha do projeto."
+  - heading "Peças" [level=2]
+  - list:
+    - listitem: Orçamento analítico
+    - listitem: Orçamento sintético
+    - listitem: Planilha orçamentária
+    - listitem: Memória de cálculo
+    - listitem: Composição de custos
+    - listitem: Curva ABC
+    - listitem: Cronograma físico-financeiro
+    - listitem: Cronograma executivo
+    - listitem: BDI
+    - listitem: Encargos sociais
+    - listitem: Planilha de equipamentos
+    - listitem: Planilha de materiais
+    - listitem: Planilha de mão de obra
+    - listitem: Atualização monetária
+  - heading "Bases de preço" [level=2]
+  - list:
+    - listitem: Compatibilização SINAPI
+    - listitem: Compatibilização com caderno estadual
+    - listitem: Compatibilização SICRO
+    - listitem: Compatibilização ORSE
+    - listitem: Compatibilização SEINFRA
+    - listitem: Cotações
+    - listitem: Pesquisa de preços
+  - heading "Documentos técnicos" [level=2]
+  - list:
+    - listitem: Memorial descritivo
+    - listitem: Memorial de cálculo
+    - listitem: Especificações técnicas
+    - listitem: Relatório técnico
+    - listitem: Parecer técnico
+    - listitem: Laudo técnico
+    - listitem: ART
+    - listitem: RRT quando necessário
+    - listitem: Manual de operação
+    - listitem: Manual de manutenção
+  - region "Perguntas sobre orçamento":
+    - heading "Perguntas sobre orçamento" [level=2]
+    - heading "Qual data-base vocês usam?" [level=3]
+    - paragraph: A que estiver valendo no dia da entrega, sempre identificada na própria peça. Planilha com referência antiga volta antes de alguém olhar o cálculo — é conferência de rotina do analista. Se o processo se arrastar e a tabela virar, o reajuste roda na mesma planilha, sem refazer levantamento.
+    - heading "Como o BDI é demonstrado?" [level=3]
+    - paragraph: Aberto parcela por parcela, seguindo o Acórdão 2.622/2013 do TCU — que é o parâmetro do controle externo — e separado por tipologia quando a obra tem trecho civil e trecho rodoviário. Assim o analista confere administração central, risco, seguro, garantia, tributo e lucro um a um.
+    - heading "Vocês entregam só o PDF?" [level=3]
+    - paragraph: Não — junto do documento assinado vai o arquivo trabalhável. Isso permite conferir cada preço unitário, testar outra solução e responder diligência sem depender de nós. O material pertence a quem contratou, inclusive para levar a outro escritório.
+    - paragraph:
+      - link "Ver as 26 perguntas frequentes →":
+        - /url: /faq/
+  - paragraph: Outras frentes
+  - list:
+    - link "Projeto Do levantamento ao executivo, nas disciplinas que a obra exige.":
+      - /url: /servicos/projeto/
+      - generic: Projeto
+      - emphasis: Do levantamento ao executivo, nas disciplinas que a obra exige.
+    - link "Licitação e contrato A documentação que sustenta a contratação e sobrevive à análise.":
+      - /url: /servicos/licitacao/
+      - generic: Licitação e contrato
+      - emphasis: A documentação que sustenta a contratação e sobrevive à análise.
+    - link "Obra Medir em campo o que foi efetivamente executado.":
+      - /url: /servicos/obra/
+      - generic: Obra
+      - emphasis: Medir em campo o que foi efetivamente executado.
+    - link "Convênio e recurso Do cadastro da proposta à prestação de contas.":
+      - /url: /servicos/convenio/
+      - generic: Convênio e recurso
+      - emphasis: Do cadastro da proposta à prestação de contas.
+    - link "Regularização e planos O que o município precisa ter por lei, e o que o terreno precisa para existir.":
+      - /url: /servicos/regularizacao/
+      - generic: Regularização e planos
+      - emphasis: O que o município precisa ter por lei, e o que o terreno precisa para existir.
+- contentinfo:
+  - paragraph: Contato
+  - heading "Traga a demanda, a gente dimensiona" [level=2]
+  - paragraph: Mande o que você tem — edital, projeto antigo, foto da obra, ou só a descrição do problema. Respondemos com escopo e prazo.
+  - paragraph:
+    - link "Falar no WhatsApp +55 62 99338-0808":
+      - /url: https://wa.me/5562993380808?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20falar%20sobre%20um%20projeto.
+      - text: Falar no WhatsApp
+      - generic: +55 62 99338-0808
+  - heading "E-mail" [level=3]
+  - list:
+    - link "consultoria@araujoferrazconsultoria.com.br":
+      - /url: mailto:consultoria@araujoferrazconsultoria.com.br
+    - link "engenharia@araujoferrazconsultoria.com.br":
+      - /url: mailto:engenharia@araujoferrazconsultoria.com.br
+    - link "arquitetura@araujoferrazconsultoria.com.br":
+      - /url: mailto:arquitetura@araujoferrazconsultoria.com.br
+  - heading "Onde estamos" [level=3]
+  - paragraph:
+    - text: Rua 60, nº 145 — Casa 1
+    - text: Quadra 108, Lote 15
+    - text: Setor Central · Goiânia — GO
+    - text: CEP 74.055-120
+  - heading "Atuação" [level=3]
+  - paragraph: Brasil
+  - heading "Serviços" [level=3]
+  - list:
+    - link "Projeto":
+      - /url: /servicos/projeto/
+    - link "Orçamento":
+      - /url: /servicos/orcamento/
+    - link "Licitação e contrato":
+      - /url: /servicos/licitacao/
+    - link "Obra":
+      - /url: /servicos/obra/
+    - link "Convênio e recurso":
+      - /url: /servicos/convenio/
+    - link "Regularização e planos":
+      - /url: /servicos/regularizacao/
+  - heading "Acompanhe" [level=3]
+  - paragraph:
+    - link "Instagram":
+      - /url: https://www.instagram.com/a.fconsultoriaeengenharia
+    - text: "@a.fconsultoriaeengenharia"
+  - navigation "Rodapé":
+    - link "Início":
+      - /url: /
+    - link "Serviços":
+      - /url: /servicos/
+    - link "Método":
+      - /url: /metodo/
+    - link "Obra parada":
+      - /url: /obra-parada/
+    - link "Sobre":
+      - /url: /sobre/
+    - link "Perguntas frequentes":
+      - /url: /faq/
+    - link "Contato":
+      - /url: /contato/
+  - img "A.F Consultoria e Assessoria em Engenharia"
+  - paragraph: © 2026 · Consultoria · Assessoria · Soluções · Resultados

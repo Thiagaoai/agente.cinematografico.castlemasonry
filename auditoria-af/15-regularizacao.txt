@@ -1,0 +1,170 @@
+- link "Pular para o conteúdo":
+  - /url: "#conteudo"
+- navigation "Principal":
+  - link "A.F Consultoria e Assessoria em Engenharia — início":
+    - /url: /
+  - list:
+    - link "Serviços":
+      - /url: /servicos/
+    - link "Método":
+      - /url: /metodo/
+    - link "Obra parada":
+      - /url: /obra-parada/
+    - link "Sobre":
+      - /url: /sobre/
+    - link "Contato":
+      - /url: /contato/
+  - link "WhatsApp":
+    - /url: https://wa.me/5562993380808?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20A.F%20Consultoria.
+- main:
+  - paragraph:
+    - link "Serviços":
+      - /url: /servicos/
+    - text: · frente
+  - heading "Regularização e planos" [level=1]
+  - paragraph: O que o município precisa ter por lei, e o que o terreno precisa para existir.
+  - paragraph: 33 especialidades em 4 grupos
+  - heading "Regularização" [level=2]
+  - list:
+    - listitem: Regularização fundiária
+    - listitem: Desmembramento
+    - listitem: Remembramento
+    - listitem: Loteamentos
+    - listitem: Aprovação de projetos
+    - listitem: Habite-se
+    - listitem: Regularização de edificações públicas
+  - heading "Planos municipais" [level=2]
+  - list:
+    - listitem: Plano Diretor Municipal
+    - listitem: Plano Municipal de Saneamento Básico (PMSB)
+    - listitem: Plano de Mobilidade Urbana (PlanMOB)
+    - listitem: Plano de Gestão Integrada de Resíduos Sólidos (PMGIRS)
+    - listitem: Plano Municipal de Drenagem Urbana
+    - text: Plano de Arborização Urbana
+    - generic: coordenação
+    - text: Plano Municipal de Habitação de Interesse Social (PMHIS)
+    - generic: coordenação
+    - text: Plano de Redução de Riscos (PRR)
+    - generic: coordenação
+    - text: Plano Municipal de Defesa Civil
+    - generic: coordenação
+  - heading "Estudos técnicos" [level=2]
+  - list:
+    - listitem: Estudos geológicos
+    - listitem: Estudos geotécnicos
+    - listitem: Estudos hidrológicos
+    - listitem: Estudos hidráulicos
+    - listitem: Estudos de tráfego
+    - listitem: Estudo de impacto de vizinhança
+    - listitem: Estudos preliminares
+    - listitem: Diagnóstico urbano
+    - text: Levantamento topográfico
+    - generic: conferência · técnico
+    - text: Georreferenciamento
+    - generic: conferência · técnico
+    - text: Sondagem SPT
+    - generic: conferência · técnico
+    - text: Estudos ambientais
+    - generic: conferência · eng. ambiental
+  - heading "Geoprocessamento" [level=2]
+  - list:
+    - listitem: Mapas temáticos
+    - listitem: Banco de dados territorial
+    - listitem: Cadastro imobiliário
+    - text: GIS
+    - generic: coordenação
+    - text: Cadastro técnico municipal
+    - generic: coordenação
+  - paragraph: "Coordenação: especialidades marcadas assim são coordenadas por nós e executadas por profissional habilitado. Conferência: disciplinas cuja atribuição é de outra profissão — a assinatura é do profissional da área, e nós conferimos a peça contra a norma e contra o orçamento."
+  - region "Perguntas sobre regularização e planos":
+    - heading "Perguntas sobre regularização e planos" [level=2]
+    - heading "Meu município é obrigado a ter Plano Diretor?" [level=3]
+    - paragraph: "Acima de 20 mil habitantes, é obrigatório pelo Estatuto da Cidade — Lei nº 10.257/2001. A mesma regra alcança cidade de região metropolitana, destino de interesse turístico e município sob influência de empreendimento de grande impacto. Ter não basta: a revisão é decenal, e plano vencido barra repasse."
+    - heading "Vocês fazem o levantamento topográfico?" [level=3]
+    - paragraph: Providenciamos e checamos, sem assinar. Topografia, georreferenciamento e SPT pertencem à atribuição de técnico habilitado — por isso aparecem marcados como conferência na lista de serviços. Nosso papel é validar o produto contra a norma e contra a necessidade do projeto, para que o desenho parta de dado confiável.
+    - paragraph:
+      - link "Ver as 26 perguntas frequentes →":
+        - /url: /faq/
+  - paragraph: Outras frentes
+  - list:
+    - link "Projeto Do levantamento ao executivo, nas disciplinas que a obra exige.":
+      - /url: /servicos/projeto/
+      - generic: Projeto
+      - emphasis: Do levantamento ao executivo, nas disciplinas que a obra exige.
+    - link "Orçamento Planilha que fecha com a base oficial que o órgão vai conferir.":
+      - /url: /servicos/orcamento/
+      - generic: Orçamento
+      - emphasis: Planilha que fecha com a base oficial que o órgão vai conferir.
+    - link "Licitação e contrato A documentação que sustenta a contratação e sobrevive à análise.":
+      - /url: /servicos/licitacao/
+      - generic: Licitação e contrato
+      - emphasis: A documentação que sustenta a contratação e sobrevive à análise.
+    - link "Obra Medir em campo o que foi efetivamente executado.":
+      - /url: /servicos/obra/
+      - generic: Obra
+      - emphasis: Medir em campo o que foi efetivamente executado.
+    - link "Convênio e recurso Do cadastro da proposta à prestação de contas.":
+      - /url: /servicos/convenio/
+      - generic: Convênio e recurso
+      - emphasis: Do cadastro da proposta à prestação de contas.
+- contentinfo:
+  - paragraph: Contato
+  - heading "Traga a demanda, a gente dimensiona" [level=2]
+  - paragraph: Mande o que você tem — edital, projeto antigo, foto da obra, ou só a descrição do problema. Respondemos com escopo e prazo.
+  - paragraph:
+    - link "Falar no WhatsApp +55 62 99338-0808":
+      - /url: https://wa.me/5562993380808?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20falar%20sobre%20um%20projeto.
+      - text: Falar no WhatsApp
+      - generic: +55 62 99338-0808
+  - heading "E-mail" [level=3]
+  - list:
+    - link "consultoria@araujoferrazconsultoria.com.br":
+      - /url: mailto:consultoria@araujoferrazconsultoria.com.br
+    - link "engenharia@araujoferrazconsultoria.com.br":
+      - /url: mailto:engenharia@araujoferrazconsultoria.com.br
+    - link "arquitetura@araujoferrazconsultoria.com.br":
+      - /url: mailto:arquitetura@araujoferrazconsultoria.com.br
+  - heading "Onde estamos" [level=3]
+  - paragraph:
+    - text: Rua 60, nº 145 — Casa 1
+    - text: Quadra 108, Lote 15
+    - text: Setor Central · Goiânia — GO
+    - text: CEP 74.055-120
+  - heading "Atuação" [level=3]
+  - paragraph: Brasil
+  - heading "Serviços" [level=3]
+  - list:
+    - link "Projeto":
+      - /url: /servicos/projeto/
+    - link "Orçamento":
+      - /url: /servicos/orcamento/
+    - link "Licitação e contrato":
+      - /url: /servicos/licitacao/
+    - link "Obra":
+      - /url: /servicos/obra/
+    - link "Convênio e recurso":
+      - /url: /servicos/convenio/
+    - link "Regularização e planos":
+      - /url: /servicos/regularizacao/
+  - heading "Acompanhe" [level=3]
+  - paragraph:
+    - link "Instagram":
+      - /url: https://www.instagram.com/a.fconsultoriaeengenharia
+    - text: "@a.fconsultoriaeengenharia"
+  - navigation "Rodapé":
+    - link "Início":
+      - /url: /
+    - link "Serviços":
+      - /url: /servicos/
+    - link "Método":
+      - /url: /metodo/
+    - link "Obra parada":
+      - /url: /obra-parada/
+    - link "Sobre":
+      - /url: /sobre/
+    - link "Perguntas frequentes":
+      - /url: /faq/
+    - link "Contato":
+      - /url: /contato/
+  - img "A.F Consultoria e Assessoria em Engenharia"
+  - paragraph: © 2026 · Consultoria · Assessoria · Soluções · Resultados

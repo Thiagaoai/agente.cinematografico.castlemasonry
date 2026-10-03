@@ -1,0 +1,468 @@
+{
+  "marca": {
+    "nome": "A.F Consultoria e Assessoria em Engenharia",
+    "tagline": "Antes de construir, enxergue o que vem pela frente.",
+    "whatsapp": "(62) 99338-0808",
+    "whatsapp_link": "wa.me/5562993380808",
+    "site": "araujoferrazconsultoria.com.br",
+    "instagram": "@a.fconsultoriaeengenharia",
+    "cidade": "Goiânia — GO",
+    "cores": {
+      "cobre": "#b6722d",
+      "areia": "#f4ece3",
+      "terra_escura": "#241a12"
+    },
+    "fontes": [
+      "Archivo",
+      "Plex Mono"
+    ],
+    "cta_site": "Falar sobre minha obra"
+  },
+  "formato": {
+    "proporcao": "9:16",
+    "resolucao": "1080x1920",
+    "duracao_alvo_s": "30-36",
+    "cenas": 6,
+    "voz": "Bernard (Runway generate_speech, eleven_v3, pt-br, speed 1) — fixa, aprovada 2026-10-03"
+  },
+  "regras_de_conteudo": [
+    "Só afirmar o que está no site (servicos, FAQ, metodo, obra-parada). Sem numeros de clientes, sem depoimentos, sem prazos ou precos.",
+    "Nunca mostrar rosto: pessoas de costas, de longe ou so maos/objetos. Nunca texto legivel dentro da imagem gerada (texto entra na montagem).",
+    "Um unico movimento de camera por cena (Kling).",
+    "Toda narracao fecha com o CTA do WhatsApp; ultimo quadro com logo + (62) 99338-0808."
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "slug": "obra-parada-nao-e-obra-perdida",
+      "publicar": "2026-10-03",
+      "produzir_ate": "2026-10-03",
+      "status": "pronto",
+      "titulo": "Obra parada não é obra perdida",
+      "pilar": "Retomada de obra",
+      "narracao": [
+        "Sua obra parou? Calma. Obra parada não é obra perdida.",
+        "Contrato encerrado, planilha vencida, recurso preso no convênio.",
+        "Falta só um número: o que já foi executado, em preço atualizado.",
+        "A gente vai a campo, mede serviço por serviço, com registro fotográfico datado.",
+        "Confronta com o contrato, reorça na data-base vigente, e a obra volta a andar.",
+        "A.F Consultoria em Engenharia. Manda o que você tem e chama no WhatsApp."
+      ],
+      "cenas": [
+        "Estrutura de concreto abandonada em Goiás, vergalhão exposto, mato (cena âncora)",
+        "Macro: ponta de vergalhão enferrujado e pilar",
+        "Engenheiro de costas sobre a laje, tablet na mão",
+        "Macro: medidor laser e trena sobre a laje (sem mãos)",
+        "Mesma obra retomada: formas, andaime, tijolo novo",
+        "Mesma obra quase pronta, vista elevada, céu livre para o CTA"
+      ],
+      "legenda": "Obra parada não é obra perdida. Falta o número que ninguém tem: o que já foi executado, em preço atualizado. Manda o que você tem no WhatsApp (62) 99338-0808.",
+      "entrega": "entregas/af.consultoria.vsclaude.mp4",
+      "creditos_magnific": 3950,
+      "narracao_tts": {
+        "6": "Á éfe Consultoria em Engenharia. Manda o que você tem e chama no uatsápi."
+      }
+    },
+    {
+      "id": 2,
+      "slug": "enxergue-o-que-vem-pela-frente",
+      "publicar": "2026-10-05",
+      "produzir_ate": "2026-10-04",
+      "status": "roteiro",
+      "titulo": "Antes de construir, enxergue o que vem pela frente",
+      "pilar": "Método em 5 etapas",
+      "narracao": [
+        "Antes de construir, enxergue o que vem pela frente.",
+        "Cinco etapas separam um terreno de uma obra bem conduzida.",
+        "Terreno: níveis, acessos e condições levantados em campo. Projeto: desenho executivo e memoriais.",
+        "Visualização: a apresentação do projeto. Planejamento: orçamento e cronograma.",
+        "E a obra, acompanhada de perto até a medição final.",
+        "A.F Consultoria em Engenharia. Fala com a gente no WhatsApp."
+      ],
+      "cenas": [
+        "Terreno de terra vermelha ao amanhecer, estação total em tripé",
+        "Mesa de desenho com prancha e escalímetro, luz de janela",
+        "Close na estação total / nível óptico em campo",
+        "Maquete ou prancha de implantação sob luz lateral (sem texto legível)",
+        "Equipe pequena de capacete ao longe numa obra organizada",
+        "Obra pronta ao entardecer, céu livre"
+      ],
+      "legenda": "Terreno, projeto, visualização, planejamento e obra: cinco etapas, um fluxo só. Chama no WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 3,
+      "slug": "orcamento-que-passa-na-analise",
+      "publicar": "2026-10-07",
+      "produzir_ate": "2026-10-06",
+      "status": "roteiro",
+      "titulo": "Orçamento que passa na análise do órgão de controle",
+      "pilar": "Orçamento / SINAPI / BDI",
+      "narracao": [
+        "Seu orçamento passa na análise do órgão de controle?",
+        "Planilha na data-base SINAPI vigente, registrada em cada peça.",
+        "BDI demonstrado item a item, com cada parcela explicitada.",
+        "Composições abertas, memória de cálculo e cronograma físico-financeiro.",
+        "E você recebe o arquivo editável, não só o PDF.",
+        "A.F Consultoria em Engenharia. Manda a sua demanda no WhatsApp."
+      ],
+      "cenas": [
+        "Mesa de engenheiro com planilhas impressas desfocadas (sem texto legível), luz quente",
+        "Macro: calculadora e escalímetro sobre planta técnica",
+        "Pilha organizada de pastas e cilindros de concreto de amostra",
+        "Notebook aberto com tela desfocada, caneta sobre prancha",
+        "Rack focus de pasta para notebook",
+        "Fachada de edifício público moderno ao entardecer"
+      ],
+      "legenda": "Data-base SINAPI vigente, BDI item a item, composições abertas e arquivo editável. Orçamento feito para ser defendido. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 4,
+      "slug": "e-se-o-orgao-glosar",
+      "publicar": "2026-10-09",
+      "produzir_ate": "2026-10-08",
+      "status": "roteiro",
+      "titulo": "E se o órgão glosar um item do orçamento?",
+      "pilar": "Diligência / defesa técnica",
+      "narracao": [
+        "O órgão glosou um item do seu orçamento. E agora?",
+        "Responder à diligência exige mais do que uma planilha.",
+        "Composições abertas, para mostrar de onde vem cada preço.",
+        "Memória de cálculo documentada, para defender cada quantitativo.",
+        "Orçamento que já nasce pronto para ser defendido.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp."
+      ],
+      "cenas": [
+        "Pasta de processo fechada sobre mesa de madeira, luz de fim de tarde",
+        "Caneta e régua sobre planilha impressa desfocada",
+        "Macro: grampo e folhas empilhadas",
+        "Estante de arquivos técnicos organizados",
+        "Corredor de repartição pública vazio, luz lateral",
+        "Fachada de prefeitura ao entardecer"
+      ],
+      "legenda": "Glosa no orçamento? Composições abertas e memória de cálculo defendem cada quantitativo. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 5,
+      "slug": "o-que-entra-numa-medicao",
+      "publicar": "2026-10-12",
+      "produzir_ate": "2026-10-11",
+      "status": "roteiro",
+      "titulo": "Medição de obra não é estimativa",
+      "pilar": "Medição em campo",
+      "narracao": [
+        "Medição de obra não é estimativa.",
+        "É boletim percentual por item, com memória de cálculo.",
+        "Registro fotográfico datado, feito em campo, presencialmente.",
+        "Diário de obra e controle físico-financeiro acumulado.",
+        "Nada é medido por relato ou foto de terceiro.",
+        "A.F Consultoria em Engenharia. Fala com a gente no WhatsApp."
+      ],
+      "cenas": [
+        "Obra em andamento, laje concretada, luz de manhã",
+        "Macro: trena esticada sobre piso de concreto",
+        "Engenheiro de costas fotografando a estrutura com celular",
+        "Macro: prancheta e capacete sobre mureta",
+        "Panorâmica lenta da obra, vergalhões e pilares",
+        "Obra organizada ao entardecer"
+      ],
+      "legenda": "Boletim por item, memória de cálculo, foto datada e diário de obra. Medição de verdade, em campo. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 6,
+      "slug": "prefeitura-pequena",
+      "publicar": "2026-10-14",
+      "produzir_ate": "2026-10-13",
+      "status": "roteiro",
+      "titulo": "Prefeitura pequena também executa grandes obras",
+      "pilar": "Assessoria a municípios",
+      "narracao": [
+        "Prefeitura pequena, equipe técnica enxuta, obra importante.",
+        "Dá para fazer, com a assessoria técnica certa.",
+        "Instrução de processo, planos municipais e captação de recurso por convênio.",
+        "Sem equipe técnica grande, a obra não precisa esperar.",
+        "A A.F atende município pequeno, sim.",
+        "Chama no WhatsApp e conta a demanda do seu município."
+      ],
+      "cenas": [
+        "Praça de cidade pequena do interior de Goiás, coreto e igreja ao fundo, luz dourada",
+        "Fachada simples de prefeitura municipal",
+        "Rua de terra sendo preparada para pavimentação, máquina ao longe",
+        "Escola municipal em construção, estrutura de concreto",
+        "UBS pronta, fachada limpa",
+        "Avenida recém-pavimentada ao entardecer"
+      ],
+      "legenda": "Município pequeno, equipe técnica enxuta: assessoria, instrução de processo e captação por convênio. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 7,
+      "slug": "recurso-preso-no-convenio",
+      "publicar": "2026-10-16",
+      "produzir_ate": "2026-10-15",
+      "status": "roteiro",
+      "titulo": "Recurso preso no convênio",
+      "pilar": "Convênio e recurso",
+      "narracao": [
+        "Recurso preso no convênio? A obra não pode esperar.",
+        "Do cadastro da proposta à prestação de contas.",
+        "Captação: cadastro, projeto técnico e documentação.",
+        "Execução: sistemas, relatórios, medições e prestação de contas.",
+        "Prestação não aprovada? Montamos a resposta com a documentação técnica de cada etapa.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp."
+      ],
+      "cenas": [
+        "Obra de escola parada, estrutura incompleta",
+        "Pasta de convênio sobre mesa, luz de janela (sem texto legível)",
+        "Macro: carimbo e papel timbrado desfocado",
+        "Equipe técnica de costas revisando projeto em tablet",
+        "Obra retomada com andaimes",
+        "Escola concluída ao entardecer"
+      ],
+      "legenda": "Da captação à prestação de contas, o convênio acompanhado de ponta a ponta. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 8,
+      "slug": "lei-14133-antes-do-edital",
+      "publicar": "2026-10-19",
+      "produzir_ate": "2026-10-18",
+      "status": "roteiro",
+      "titulo": "Licitação pela Lei 14.133 começa antes do edital",
+      "pilar": "Licitação e contrato",
+      "narracao": [
+        "Licitação pela Lei 14.133 começa muito antes do edital.",
+        "Estudo Técnico Preliminar e Termo de Referência.",
+        "Projeto Básico, mapa de riscos e planilha estimativa.",
+        "Pesquisa mercadológica conforme o novo rito.",
+        "Tudo documentado, do início ao contrato.",
+        "A.F Consultoria em Engenharia. Fala com a gente no WhatsApp."
+      ],
+      "cenas": [
+        "Mesa de gabinete com pilhas de documentos organizados, luz lateral",
+        "Macro: caneta sobre folha desfocada",
+        "Prancha de projeto básico sobre mesa",
+        "Estante de processos organizada",
+        "Corredor de prédio público",
+        "Fachada de prefeitura ao entardecer"
+      ],
+      "legenda": "ETP, Termo de Referência, Projeto Básico, mapa de riscos: tudo pelo novo rito da Lei 14.133/2021. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 9,
+      "slug": "projeto-executivo-que-antecipa",
+      "publicar": "2026-10-21",
+      "produzir_ate": "2026-10-20",
+      "status": "roteiro",
+      "titulo": "Um projeto executivo que antecipa os problemas da obra",
+      "pilar": "Projeto executivo",
+      "narracao": [
+        "Um projeto executivo que antecipa os problemas da obra.",
+        "Arquitetura, estrutura, elétrica e hidrossanitário.",
+        "Prevenção de incêndio, SPDA e acessibilidade.",
+        "Cada obra pede as disciplinas que ela realmente exige.",
+        "Levantamento, desenho executivo e memorial.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp."
+      ],
+      "cenas": [
+        "Mesa de desenho com pranchas sobrepostas, luz de janela",
+        "Macro: escalímetro e compasso sobre planta",
+        "Planta de edificação sobre mesa com capacete branco",
+        "Detalhe de instalações em obra: eletrodutos e tubulações",
+        "Estrutura de concreto armado em obra organizada",
+        "Edifício concluído ao entardecer"
+      ],
+      "legenda": "Cada disciplina que a obra exige, projetada antes de a obra começar. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 10,
+      "slug": "projeto-em-bim",
+      "publicar": "2026-10-23",
+      "produzir_ate": "2026-10-22",
+      "status": "roteiro",
+      "titulo": "Projeto em BIM, onde o modelo é viável",
+      "pilar": "BIM",
+      "narracao": [
+        "Projeto em BIM: onde o modelo é viável, a gente entrega.",
+        "Revit, Civil 3D, Infraworks e Navisworks.",
+        "Quando o BIM não é obrigatório, o projeto sai em CAD.",
+        "E a proposta explica o porquê, antes de você contratar.",
+        "O formato certo para a sua obra.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp."
+      ],
+      "cenas": [
+        "Monitor com modelo 3D de edifício desfocado, sala escura com luz quente",
+        "Macro: mouse e teclado sob luz lateral",
+        "Planta impressa ao lado do notebook",
+        "Obra em andamento ao fundo de uma janela",
+        "Prédio concluído visto de baixo, céu limpo",
+        "Vista elevada do conjunto ao entardecer"
+      ],
+      "legenda": "BIM onde o modelo é viável, CAD quando não é obrigatório. E a proposta explica a escolha. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 11,
+      "slug": "infraestrutura-urbana",
+      "publicar": "2026-10-26",
+      "produzir_ate": "2026-10-25",
+      "status": "roteiro",
+      "titulo": "Pavimentação, drenagem e calçadas acessíveis",
+      "pilar": "Infraestrutura urbana",
+      "narracao": [
+        "Pavimentação, drenagem, calçadas acessíveis.",
+        "Infraestrutura urbana exige projeto, orçamento e acompanhamento.",
+        "Recapeamento, galerias, rotatórias e sinalização viária.",
+        "Do levantamento à medição final.",
+        "Orçamento na base oficial: SINAPI ou SICRO.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp."
+      ],
+      "cenas": [
+        "Rua em obra com valas de drenagem abertas, luz da manhã",
+        "Macro: galeria de concreto sendo assentada",
+        "Fresagem e novo asfalto, máquina ao longe",
+        "Calçada acessível com piso tátil recém-concluída",
+        "Rotatória com sinalização nova",
+        "Avenida pavimentada ao entardecer, postes acendendo"
+      ],
+      "legenda": "Do levantamento à medição final, infraestrutura urbana com orçamento na base oficial. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 12,
+      "slug": "saneamento",
+      "publicar": "2026-10-28",
+      "produzir_ate": "2026-10-27",
+      "status": "roteiro",
+      "titulo": "Água e esgoto: a obra que a cidade não vê, mas precisa",
+      "pilar": "Saneamento",
+      "narracao": [
+        "Água e esgoto: a obra que a cidade não vê, mas precisa.",
+        "Redes de água e esgoto, adutoras e reservatórios.",
+        "Elevatórias, ETA e ETE.",
+        "Projeto, orçamento e acompanhamento no mesmo fluxo.",
+        "Do levantamento até a medição do que foi executado.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp."
+      ],
+      "cenas": [
+        "Vala com tubulação de PEAD sendo assentada, terra vermelha",
+        "Macro: conexão de tubulação",
+        "Reservatório elevado de concreto ao entardecer",
+        "Estação de tratamento vista de cima, tanques circulares",
+        "Casa de bombas da elevatória, luz lateral",
+        "Reservatório contra céu dourado"
+      ],
+      "legenda": "Redes, adutoras, reservatórios, ETA e ETE: saneamento do projeto à medição. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 13,
+      "slug": "manda-o-que-voce-tem",
+      "publicar": "2026-10-30",
+      "produzir_ate": "2026-10-29",
+      "status": "roteiro",
+      "titulo": "Manda o que você tem",
+      "pilar": "CTA direto",
+      "narracao": [
+        "Não sabe por onde começar? Manda o que você tem.",
+        "Edital, projeto antigo, planilha ou foto da obra.",
+        "Ou só a descrição do problema, do seu jeito.",
+        "A gente organiza a demanda e dimensiona.",
+        "Orçamento fechado antes de começar.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp agora."
+      ],
+      "cenas": [
+        "Celular sobre mureta de obra com tela apagada, luz dourada",
+        "Macro: pasta com projeto antigo",
+        "Foto impressa de obra parada sobre mesa",
+        "Engenheiro de costas digitando no tablet em campo",
+        "Mesa com planilha, trena e capacete",
+        "Obra organizada ao entardecer"
+      ],
+      "legenda": "Edital, projeto antigo, planilha, foto ou só a descrição do problema. Manda no WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 14,
+      "slug": "quem-assina-cada-peca",
+      "publicar": "2026-11-02",
+      "produzir_ate": "2026-11-01",
+      "status": "roteiro",
+      "titulo": "Quem assina cada peça do seu projeto?",
+      "pilar": "Responsabilidade técnica",
+      "narracao": [
+        "Quem assina cada peça do seu projeto?",
+        "A maior parte sai com a assinatura da própria equipe.",
+        "Treze especialidades são coordenadas e executadas por profissional habilitado.",
+        "Seis são conferidas por serem atribuição de outra profissão.",
+        "Tudo marcado na lista antes da contratação.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp."
+      ],
+      "cenas": [
+        "Prancha de projeto sobre mesa, carimbo desfocado, luz lateral",
+        "Macro: caneta técnica sobre prancha (sem mãos)",
+        "Equipe de costas ao redor de uma mesa de projeto",
+        "Rolos de pranchas organizados em prateleira",
+        "Lista impressa sobre prancheta (sem texto legível)",
+        "Obra concluída ao entardecer"
+      ],
+      "legenda": "Transparência sobre quem assina e quem confere cada peça, antes de contratar. WhatsApp (62) 99338-0808."
+    },
+    {
+      "id": 15,
+      "slug": "brasil-inteiro",
+      "publicar": "2026-11-04",
+      "produzir_ate": "2026-11-03",
+      "status": "roteiro",
+      "titulo": "Sede em Goiânia, obra no Brasil inteiro",
+      "pilar": "Cobertura nacional",
+      "narracao": [
+        "Sede em Goiânia. Obra no Brasil inteiro.",
+        "O que muda de estado para estado é a base de preço e o caderno de encargos.",
+        "Medição e fiscalização, presencial. O resto, por videochamada.",
+        "Obra pública ou particular, o método é o mesmo.",
+        "Antes de construir, enxergue o que vem pela frente.",
+        "A.F Consultoria em Engenharia. Chama no WhatsApp."
+      ],
+      "cenas": [
+        "Vista aérea de Goiânia ao amanhecer",
+        "Rodovia cortando o cerrado, luz dourada",
+        "Engenheiro de costas com tablet diante de uma obra distante",
+        "Videochamada: notebook sobre mesa, tela desfocada",
+        "Obra particular e obra pública lado a lado ao entardecer",
+        "Vista elevada do conjunto ao pôr do sol"
+      ],
+      "legenda": "Goiânia é a sede, o Brasil é o território. Mesma metodologia em qualquer estado. WhatsApp (62) 99338-0808."
+    }
+  ],
+  "pronuncia_tts": {
+    "_nota": "A.F e WhatsApp: grafias aprovadas na voz Bernard (V02, 2026-10-03). Demais termos NÃO foram ouvidos com essa voz: amostra curta e aprovação antes de usar (ver marca/audio.md).",
+    "A.F": "A A F",
+    "WhatsApp": "WhatsApp",
+    "BDI": "bê dê í",
+    "SINAPI": "sinápi",
+    "SICRO": "sícro",
+    "SPDA": "esse pê dê á",
+    "ETA": "éta",
+    "ETE": "éte",
+    "BIM": "bim",
+    "CAD": "cád",
+    "TCU": "tê cê u",
+    "ETP": "ê tê pê",
+    "14.133": "quatorze mil cento e trinta e três"
+  },
+  "producao": {
+    "nome_arquivo_v01": "af.consultoria.vsclaude.mp4",
+    "nome_arquivo_demais": "af.consultoria.vsclaude-vNN.mp4",
+    "custo_medio_magnific_por_video_creditos": 3950,
+    "modelo_imagem": "seedream-5-pro (9:16, 2k, 100 cr)",
+    "modelo_video": "kling-30 (9:16, 1080p, 5s, sem som, 450 cr)",
+    "voz": {
+      "ferramenta": "runway.generate_speech",
+      "model": "eleven_v3",
+      "voice": "Bernard",
+      "languageCode": "pt-br",
+      "speed": 1,
+      "aprovada_em": "2026-10-03",
+      "referencia": "af-reels/marca/audio.md"
+    },
+    "trilha": {
+      "estilo": "dramática, variando D1-D6 por vídeo",
+      "ferramenta": "runway.generate_music lyria-3-clip (alternativa: elevenlabs compose_music)",
+      "referencia": "af-reels/marca/audio.md"
+    }
+  }
+}
