@@ -1,0 +1,77 @@
+{
+  "saida": "saida-cape-cod",
+  "biblia": "Classic two-story Cape Cod style house, walls and roof clad in weathered silver-gray cedar shingles, crisp white trim, white double-hung windows with white shutters, natural stone chimney. Backyard with a gray natural stone paver patio, freeform swimming pool with a dark tile border, synthetic golf putting green with a red flag, white pergola with a stone fire table and outdoor kitchen, natural stone outdoor fireplace, round granite fire pit. Blue hydrangeas, coastal grasses, pine trees in the background.",
+  "estilo": "35mm architectural film photography, natural organic color grading, Leica optics, authentic materials and physical light physics, pristine high-end estate, zero CGI render look, no watermark, no text",
+  "negative_video": "text, watermark, logo, distorted architecture, warping walls, melting stones, morphing geometry, extra pools, deformed people, flicker, fire outside the firebox, flames on walls, burning house, smoke clouds, explosion, unnatural warping, glitch",
+  "cenas": [
+    {
+      "id": 1,
+      "nome": "chegada-fpv",
+      "imagem": "Aerial view from just above the cedar shingle roof ridge of the house looking down into the backyard: stone paver patio, turquoise pool, putting green, stone fireplace and granite fire pit. 14mm ultra wide lens, soft morning light with coastal mist dissipating, silver sheen on the shingles, water glittering.",
+      "movimento": "Smooth slow forward drone flight gliding forward over the cedar shingle roof towards the backyard. Stabilized cinematic camera, roof and house remain completely solid and rigid, soft coastal mist clearing."
+    },
+    {
+      "id": 2,
+      "nome": "patio-ground-level",
+      "imagem": "Ground-level view 40cm above a stone paver patio with precise joints leading the eye toward the cedar shingle house, out-of-focus blue hydrangeas in the foreground, teak table and chairs in the background. 35mm lens, low raking warm morning sunlight revealing the stone texture, long shadows.",
+      "movimento": "low ground-level tracking shot gliding forward over the stone paver patio toward the house, hydrangeas in the foreground passing by creating parallax"
+    },
+    {
+      "id": 3,
+      "nome": "piscina-overhead",
+      "imagem": "Drone shot looking straight down (90-degree top-down, birds-eye) at a freeform turquoise swimming pool with a dark tile border, surrounded by a gray stone paver deck with white lounge chairs, navy striped umbrellas seen from above, blue hydrangea beds and green lawn around it, the edge of the cedar shingle roof visible at one side. Dusk, pool lights glowing, graphic minimalist composition. No lake, no pond, no golf course.",
+      "movimento": "top-down overhead shot slowly rising straight up, water rippling with light caustics, umbrella fabric moving in the breeze"
+    },
+    {
+      "id": 4,
+      "nome": "putting-green",
+      "imagem": "Ground-level close-up at turf height on a lush green synthetic golf putting green surrounded by lawn, a single small plain white golf ball (no logo, no text) rolling toward the cup with a red flag, the putting surface is green turf only, no stone pavers on the green, cedar shingle house with glowing windows softly blurred in the background. 100mm lens, warm dusk light, glowing grass tips, golden bokeh.",
+      "movimento": "ground-level shot, the golf ball rolls across the putting green and drops into the cup, rack focus from the ball to the hole, flag fluttering gently"
+    },
+    {
+      "id": 5,
+      "nome": "lareira-externa",
+      "imagem": "Natural stone outdoor fireplace with a tall chimney under a wooden pergola, first flames growing, armchairs with wool throws in the foreground, stacked firewood, lanterns, sunset sky turning pink and lilac. 50mm lens, soft haze and gentle smoke creating a golden halo.",
+      "movimento": "slow gentle dolly arc to the right around the stone outdoor fireplace, the flames stay fully contained inside the firebox and flicker softly, the chimney and stonework remain solid and unchanged, sunset sky slowly shifting colors"
+    },
+    {
+      "id": 6,
+      "nome": "fire-pit",
+      "imagem": "Over-the-shoulder view from behind a group of friends and family sitting in Adirondack chairs around a round granite fire pit burning at night on a gray stone paver patio, people seen from behind and in soft silhouette against the warm firelight, faces not visible, wool blankets on their shoulders, sparks rising into the deep blue sky, illuminated freeform turquoise pool with a dark tile border and the glowing cedar shingle house in the background, white pergola with a lit stone fireplace. 35mm lens, warm flickering firelight, subtle film grain.",
+      "movimento": "slow gentle arc behind the chairs around the fire pit, people seen from behind move naturally and subtly, sparks rising in slow motion, flames flickering, faces stay hidden"
+    },
+    {
+      "id": 7,
+      "nome": "final-aereo",
+      "imagem": "Night aerial view of the whole property at blue hour: Cape Cod house with warm glowing windows, illuminated turquoise pool, stone paver patio, putting green, lit stone fireplace and fire pit, string lights, pine trees around, last light on the horizon, empty sky in the upper third for a logo. 24mm lens.",
+      "movimento": "drone slowly pulls back and rises revealing the whole illuminated backyard at night, flames flickering, pool glowing, string lights twinkling"
+    }
+  ],
+  "referencias_fixas": [
+    "saida/cena7.png"
+  ],
+  "luz": "blue hour dusk just after sunset, deep blue sky, warm glowing windows, pool lights on, string lights on",
+  "mapa": "Viewed from the back yard: the two-story house spans the back; its back porch with white columns faces the yard; a freeform turquoise pool sits centered in front of the house on a gray stone paver patio; the kidney-shaped putting green with a red flag is on the LEFT side of the yard, on the lawn; the white pergola with stone columns and an outdoor kitchen is on the RIGHT, attached to the patio; blue hydrangea beds and string lights line the patio edges; tall pine trees surround the property.",
+  "inventario": [
+    {
+      "item": "house",
+      "descricao": "two-story Cape Cod house, weathered silver-gray cedar shingle walls, dark gray roof, white trim, two stone chimneys, several dormers, white columned back porch"
+    },
+    {
+      "item": "pool",
+      "descricao": "freeform kidney-like pool, turquoise water, dark tile border, wide steps at the right end"
+    },
+    {
+      "item": "putting green",
+      "descricao": "kidney-shaped synthetic putting green with one red flag, on the lawn to the left of the patio"
+    },
+    {
+      "item": "pergola",
+      "descricao": "white pergola with white columns on stone bases, outdoor kitchen with stone counters underneath"
+    },
+    {
+      "item": "patio",
+      "descricao": "gray natural stone pavers around the pool"
+    }
+  ]
+}
