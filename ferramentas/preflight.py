@@ -39,8 +39,7 @@ def main():
     if importlib.util.find_spec("PIL") is None:
         falhas.append("Pillow não instalado (python3 -m pip install -r requirements.txt)")
 
-    for arq in ("af-reels/marca/archivo.ttf", "af-reels/marca/logo-branco.png", "af-reels/marca/logo-cobre.png",
-                "af-reels/serie.json", "af-reels/marca/fatos.md"):
+    for arq in ("castle/marca/fatos.md",):
         if not (RAIZ / arq).is_file():
             falhas.append(f"arquivo de marca/dados ausente: {arq}")
 

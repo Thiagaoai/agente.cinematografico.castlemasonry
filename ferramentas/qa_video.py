@@ -175,7 +175,7 @@ def main():
             "pronúncia, sotaque e naturalidade da voz (exige escuta humana)",
             "conteúdo visual: deformações, texto ilegível, rosto, coerência entre cenas (olhar a folha de quadros)",
             "movimento entre os quadros amostrados e transições",
-            "veracidade das afirmações do roteiro (conferir af-reels/marca/fatos.md)",
+            "veracidade das afirmações do roteiro (conferir castle/marca/fatos.md)",
         ],
     }
     if not passou:
